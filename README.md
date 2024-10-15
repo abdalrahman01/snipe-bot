@@ -1,4 +1,9 @@
-# Sample Hardhat Project
+
+# Snipe-bot 
+listen to new deployed contracts and check if they are real and not scam. then buy them. 
+
+
+### Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
